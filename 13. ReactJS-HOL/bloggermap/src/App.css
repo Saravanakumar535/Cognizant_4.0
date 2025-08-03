@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.box {
+  border-left: 4px solid green;
+  padding: 10px 20px;
+}
